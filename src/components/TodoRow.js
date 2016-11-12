@@ -19,7 +19,10 @@ class TodoRow extends Component {
         }
         rightIconButton={
           <IconButton onTouchTap={handleRemoveTodo(todo.id)}>
-            <FontIcon className="material-icons">
+            <FontIcon
+              className="material-icons"
+              color="red"
+            >
               clear
             </FontIcon>
           </IconButton>
