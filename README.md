@@ -1,4 +1,8 @@
-# React & Redux Todo App
+<h1 align="center">React & Redux Todo App</h1>
+
+<p align="center">
+  <img src="https://github.com/lucasbento/react-redux-todo/raw/master/content/todo.gif">
+</p>
 
 ## Running
 
